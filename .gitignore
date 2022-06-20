@@ -1,3 +1,4 @@
+.idea
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,3 +14,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+*.sum
+*.txt
+*.log
+*.pem
+*.docx
+
+pkg
+bin
+
+test
+node_modules
+tmp
