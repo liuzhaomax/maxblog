@@ -20,6 +20,7 @@
 *.log
 *.pem
 *.docx
+*.xlsx
 
 pkg
 bin
